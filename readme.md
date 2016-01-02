@@ -1,6 +1,6 @@
 # Simple Bash Bookmarking
 
-  Originally Written By "getmizanur" From StackOverflow
+  Written By ["getmizanur"](http://stackoverflow.com/questions/7374534/directory-bookmarking-for-bash) and improved by Taylor Otwell
 
 ## Install:
 ```
