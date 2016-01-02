@@ -4,7 +4,7 @@
 
 ## Install:
 ```
-cp zap.bash ~/.zap.bash
+cp zap.bash ~/zap.bash
 ```
 Add this line to your bash.rc
 ```
@@ -15,9 +15,9 @@ fi
 ```
 ## Usage:
 ```
-cd ~/test && zap remember test # save bookmark
-zap to test # go to bookmark
-zap locations # show all bookmarks
-zap forget test # delete bookmark
+$ cd ~/test && zap remember test # save bookmark
+$ zap to test # go to bookmark
+$ zap locations # show all bookmarks
+$ zap forget test # delete bookmark
 ```
 
