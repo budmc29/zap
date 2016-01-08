@@ -6,7 +6,7 @@
 ```
 cp zap.bash ~/zap.bash
 ```
-Add this line to your bash.rc
+Add this line to your .bashrc
 ```
 # zap bookmark manager
 if [ -f ~/.zap.bash ]; then
